@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=posX\ posY\ mapXL\ mapYL\ attack\ health\ speed
+comment0.target=Hero(int,\ int,\ int,\ int,\ double,\ double,\ double)
+comment1.params=map\ x\ y
+comment1.target=java.lang.String\ checkPosMonster(java.lang.Object[][],\ int,\ int)
+comment2.params=map\ x\ y\ addX\ addY
+comment2.target=java.lang.String\ objector(java.lang.Object[][],\ int,\ int,\ int,\ int)
+comment3.params=input
+comment3.target=void\ move(java.lang.String)
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=
+comment6.target=double\ getHealth()
+comment7.params=amount
+comment7.target=void\ setHealth(double)
+comment8.params=
+comment8.target=double\ getAttack()
+numComments=9
